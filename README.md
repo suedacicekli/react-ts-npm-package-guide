@@ -1,6 +1,6 @@
 # Katkıda Bulunma
 
-1. Bu depoyu fork edin [buradan](https://github.com/Sueda/adeus/fork).
+1. Bu depoyu fork edin [buradan](https://github.com/suedacicekli/react-ts-npm-package-guide).
 2. Yeni bir özellik dalı oluşturun (`git checkout -b feature/fooBar`).
 3. Değişikliklerinizi commit edin (`git commit -am 'Add some fooBar'`).
 4. Dalınıza itme yapın (`git push origin feature/fooBar`).
